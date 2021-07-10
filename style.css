@@ -1,0 +1,100 @@
+body {
+
+    font-family: 'Special Elite', cursive;
+    background-color: rgb(218, 99, 138);
+
+}
+
+.header_div{
+
+    background-color: rgba(128, 0, 128, 0.466);
+    color: yellow;
+
+}
+
+.header_div img{
+
+    width: 100px;
+
+}
+
+.main_div {
+
+    background-color: rgb(231, 78, 129);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+
+}
+
+.main_div label {
+
+    background: white;
+    width: 310px;    
+    padding: 10px;
+    margin-bottom: 0px;
+    border: 3px solid white;
+    box-shadow: 5px 5px 18px white;
+
+}
+
+#camera {
+
+    border: 2px solid white;
+    width: 310;
+    height: 300;
+    box-shadow: 5px 5px 18px white;
+
+}
+
+.main_div button {
+
+    width: 310px;    
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+
+}
+
+#snapshot {
+
+    border: 2px solid white;
+    width: 310;
+    height: 300;
+    box-shadow: 5px 5px 18px white;
+
+}
+
+.footer_div {
+
+    margin-bottom: 50px;
+
+}
+
+.footer_div h4 {
+
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+
+}
+
+.footer_div img {
+
+    width: 70px;
+
+}
+
+.copy_right_footer {
+
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(119, 58, 155, 0.281);
+    line-height: 3;
+    text-align: center;
+    box-shadow: 5px 5px 18px rgba(255, 0 255);
+
+}
